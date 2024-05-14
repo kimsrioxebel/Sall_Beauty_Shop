@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533220551158",
+    "project_id": "mvvnarchitecture",
+    "storage_bucket": "mvvnarchitecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533220551158:android:17b9ec9c4f8883e40c7fd7",
+        "android_client_info": {
+          "package_name": "com.example.mvvnarchitecture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwvrbN67rPq54z1KtFhlpXoVL-G7zRVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
